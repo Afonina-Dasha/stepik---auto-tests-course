@@ -1,2 +1,2 @@
-Repository for https://stepik.org/course/575/syllabus
+Repository for https://github.com/Afonina-Dasha/stepik---auto-tests-course
 
